@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background: rgb(70, 140, 240);
+    font: normal 15pt Arial;
+}
+
+header{
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    color: black;
+    margin-top: 125px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    margin-top: 380px;
+}
+
+footer p{
+    font-size: 18px;
+}
+
+#msg{
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.img{
+    background-size: cover;
+    background-position: center;
+    border-radius: 125px;
+    width: 250px;
+    height: 250px;
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+ /* ====== Media Queries ====== */
+
+@media screen and (max-width: 670px){
+    section{
+        width: 320px;
+        border-radius: 50px;
+    }
+}
