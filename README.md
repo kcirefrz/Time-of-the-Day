@@ -6,6 +6,7 @@
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/79349878/155229296-54680c76-98bd-44b0-9f79-575ede934f30.png">
+</div>
 
 <h4 align="center">
   ✔️ Status: 🙌 Finished! ✔️
