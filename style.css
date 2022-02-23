@@ -2,14 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-html, body{
-    height: 100%;
-}
-
-body{
-    background: rgb(70, 140, 240);
     font: normal 15pt Arial;
 }
 
@@ -33,12 +25,12 @@ section{
 footer{
     text-align: center;
     color: white;
-    font-style: italic;
     margin-top: 380px;
 }
 
 footer p{
     font-size: 18px;
+    font-style: italic;
 }
 
 #msg{

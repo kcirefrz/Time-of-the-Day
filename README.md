@@ -52,6 +52,7 @@
 
  # Features
 + [x] Home Page
++ [x] Responsive Page
 + [x] Morning Status
 + [x] Afternoon Status
 + [x] Evening Status
